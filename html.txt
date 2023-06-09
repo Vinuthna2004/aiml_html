@@ -1,0 +1,8 @@
+<html>
+<body>
+<h2> "Welcome to html" </h2>
+<button  onclick='document.getElementById("myImage").src='onbulb.jpg' "> bulboff! </button>
+<img id="myImage" src="C:\Users\vinuthna\Desktop\light-bulb-on-off-png-11553940208oq66nq8jew.png" style="width:200px">
+<button onclick='document.getElementById("myImage").src='off.png' ">bulbon! </button>
+</body>
+</html>
